@@ -56,3 +56,4 @@ app.get("/api/user/company", (req, res) =>{
 })
 
 app.listen(port, () => console.log(`express server running on port ${port}`));
+
